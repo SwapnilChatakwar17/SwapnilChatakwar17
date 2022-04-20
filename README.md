@@ -4,8 +4,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwapnilChatakwar17&layout=compact" />
 
-<br>
-
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
